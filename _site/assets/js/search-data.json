@@ -1,14 +1,14 @@
 {"0": {
     "doc": "FAQ English",
     "title": "1. [Premium] I want to know how to withdraw/refund subscription.",
-    "content": "This will guide you on how to get a refund for the Pill butler Premium subscription service. For IOS, you can request a refund for a subscription paid on the Pill butler app by using the following methods. [How to request refund for Apple App Store] If you paid in the Apple App Store, you can get a refund through the App Store. Here is the link to **Apple’s customer support.** - If you purchased it from the App Store, the developer cannot refund it due to Apple policy. Please understand that all management and refunds for IOS in-app purchases are made according to Apple’s policy. - Products that have expired cannot be canceled or refunded. - If you want to unsubscribe, please refer to the following FAQ. ",
+    "content": "This will guide you on how to get a refund for the Pill butler Premium subscription service. For IOS, you can &gt; request a refund for a subscription paid on the Pill butler app by using the following methods. [How to request refund for Apple App Store] . If you paid in the Apple App Store, you can get a refund through the App Store. Here is the link to Apple’s &gt; customer support. | If you purchased it from the App Store, the developer cannot refund it due to Apple policy. Please understand that &gt; all management and refunds for IOS in-app purchases are made according to Apple’s policy. | Products that have expired cannot be canceled or refunded. | If you want to unsubscribe, please refer to the following FAQ. | . ",
     "url": "/docs/pill-butler/faq/#1-premium-i-want-to-know-how-to-withdrawrefund-subscription",
     
     "relUrl": "/docs/pill-butler/faq/#1-premium-i-want-to-know-how-to-withdrawrefund-subscription"
   },"1": {
     "doc": "FAQ English",
     "title": "2. [Premium] How do I cancel my subscription?",
-    "content": "This will guide you on how to cancel your subscription to Pill Butler Premium. For IOS, you can unsubscribe from regular subscriptions paid on the Pill Butler app by. [How to cancel Apple App Store subscription] If you purchased on Apple’s App Store, you can go to “settings” app, and cancel the subscription. Here is the link to **Apple’s customer support.** - Subscription cancellation will be processed so that the next payment will not be made, and you can use it for the remaining period of use of the currently subscribed product. - If you would like a subscription refund, please refer to the previous FAQ. ",
+    "content": "This will guide you on how to cancel your subscription to Pill Butler Premium. For IOS, you can unsubscribe from regular subscriptions paid on the Pill Butler app by. [How to cancel Apple App Store subscription] . If you purchased on Apple’s App Store, you can go to “settings” app, and cancel the subscription. Here is the link to Apple’s customer support. | Subscription cancellation will be processed so that the next payment will not be made, and you can use it for the &gt; remaining period of use of the currently subscribed product. | If you would like a subscription refund, please refer to the previous FAQ. | . ",
     "url": "/docs/pill-butler/faq/#2-premium-how-do-i-cancel-my-subscription",
     
     "relUrl": "/docs/pill-butler/faq/#2-premium-how-do-i-cancel-my-subscription"
@@ -22,42 +22,42 @@
   },"3": {
     "doc": "FAQ English",
     "title": "4. [Premium] How do I change my payment plan?",
-    "content": "We’re sorry, but we don’t have a way to change the payment method at the moment. If you want to change your payment method, you must cancel or refund your previous subscription and make a new subscription. [Monthly &gt; Annual] If you make a new subscription using the annual payment method, it will be changed to annual payment starting next month. [Annual &gt; Monthly] If you subscribe to a new monthly payment method, it will be changed to monthly payment starting next month. ",
+    "content": "We’re sorry, but we don’t have a way to change the payment method at the moment. If you want to change your payment method, you must cancel or refund your previous subscription and make a new subscription. [Monthly &gt; Annual] . If you make a new subscription using the annual payment method, it will be changed to annual payment starting next month. [Annual &gt; Monthly] . If you subscribe to a new monthly payment method, it will be changed to monthly payment starting next month. ",
     "url": "/docs/pill-butler/faq/#4-premium-how-do-i-change-my-payment-plan",
     
     "relUrl": "/docs/pill-butler/faq/#4-premium-how-do-i-change-my-payment-plan"
   },"4": {
     "doc": "FAQ English",
     "title": "5. How does the free trial work?",
-    "content": "Pill Butler free experience is only available once. You can experience free of charge for 3 days and regular payment takes place on the 2nd day. - In the case of minors, we confirm that you have agreed to the subscription and payment of your legal representative. Subscriptions will be automatically made after the free experience and subscription can be canceled within the App Store. Your plan will be automatically renewed until you cancel it. ",
+    "content": "Pill Butler free experience is only available once. You can experience free of charge for 3 days and regular &gt; payment takes place on the 2nd day. | In the case of minors, we confirm that you have agreed to the subscription and payment of your legal &gt; representative. | . Subscriptions will be automatically made after the free experience and subscription can be canceled within the App Store. Your plan will be automatically renewed until you cancel it. ",
     "url": "/docs/pill-butler/faq/#5-how-does-the-free-trial-work",
     
     "relUrl": "/docs/pill-butler/faq/#5-how-does-the-free-trial-work"
   },"5": {
     "doc": "FAQ English",
     "title": "6. How can I add multi-profiles?",
-    "content": "You can add multi-profiles from the \"Setting\" menu using the \"Add\" button at the bottom of the user profile. Basic (free) users can add up to 1 person, and premium (paid) subscription users can add unlimited. ",
+    "content": "You can add multi-profiles from the “Setting” menu using the “Add” button at the bottom of the user profile. Basic (free) users can add up to 1 person, and premium (paid) subscription users can add unlimited. ",
     "url": "/docs/pill-butler/faq/#6-how-can-i-add-multi-profiles",
     
     "relUrl": "/docs/pill-butler/faq/#6-how-can-i-add-multi-profiles"
   },"6": {
     "doc": "FAQ English",
     "title": "7. How can I change push alarm settings?",
-    "content": "Click \"Setting &gt; Push Notification Settings\" to automatically navigate to the Device's “Settings &gt; Pill Butler” Settings screen. You can change notification settings on the moved screen. ",
+    "content": "Click “Setting &gt; Push Notification Settings” to automatically navigate to the Device’s “Settings &gt; Pill Butler” Settings screen. You can change notification settings on the moved screen. ",
     "url": "/docs/pill-butler/faq/#7-how-can-i-change-push-alarm-settings",
     
     "relUrl": "/docs/pill-butler/faq/#7-how-can-i-change-push-alarm-settings"
   },"7": {
     "doc": "FAQ English",
     "title": "8. How can I customize the shape and color of the pill icon?",
-    "content": "You can select the shape and color of the pill by selecting \"Add picture &gt; icon\" on the add new medicine screen. Basic (free) users can only select 3 pill shapes, color cannot be changed, and premium (paid) subscription users can select all shapes and colors without restriction. ",
+    "content": "You can select the shape and color of the pill by selecting “Add picture &gt; icon” on the add new medicine screen. Basic (free) users can only select 3 pill shapes, color cannot be changed, and premium (paid) subscription users can select all shapes and colors without restriction. ",
     "url": "/docs/pill-butler/faq/#8-how-can-i-customize-the-shape-and-color-of-the-pill-icon",
     
     "relUrl": "/docs/pill-butler/faq/#8-how-can-i-customize-the-shape-and-color-of-the-pill-icon"
   },"8": {
     "doc": "FAQ English",
     "title": "9. How can I change alarm sounds?",
-    "content": "Select the \"Sound\" on the add new medicine screen to change the alarm sound you want. Basic (free) users can select only basic voice sounds, and premium (paid) subscription users can select all sounds without limit. Select \"None\" to remove the sound. ",
+    "content": "Select the “Sound” on the add new medicine screen to change the alarm sound you want. Basic (free) users can select only basic voice sounds, and premium (paid) subscription users can select all sounds without limit. Select “None” to remove the sound. ",
     "url": "/docs/pill-butler/faq/#9-how-can-i-change-alarm-sounds",
     
     "relUrl": "/docs/pill-butler/faq/#9-how-can-i-change-alarm-sounds"
@@ -78,7 +78,7 @@
   },"11": {
     "doc": "FAQ English",
     "title": "FAQ English",
-    "content": "FAQ 내용(23년 11월 12일 기준, SNOW 참고) . ",
+    "content": " ",
     "url": "/docs/pill-butler/faq/",
     
     "relUrl": "/docs/pill-butler/faq/"
@@ -92,14 +92,14 @@
   },"13": {
     "doc": "FAQ Korean",
     "title": "1. [Premium] 구독 철회/환불 방법을 알고 싶습니다.",
-    "content": "약집사 프리미엄 구독 서비스 환불 방법 안내 IOS의 경우 약집사 앱에서 결제한 구독에 대해 다음과 같은 방법으로 환불을 요청할 수 있습니다. [애플 앱스토어 환불 요청 방법] 애플 앱스토어에서 결제한 경우 앱스토어를 통해 환불이 가능하며, **애플 고객지원** 링크는 다음과 같습니다. - 앱스토어에서 구매하신 경우 개발자는 애플 정책상 환불이 불가하며, IOS 인앱 구매에 대한 모든 관리 및 환불은 애플 정책에 따라 이루어지는 점 양해 부탁드립니다. - 유효기간이 지난 상품은 취소 및 환불이 불가합니다. - 구독을 취소하고 싶으시면 다음 FAQ를 참조하시기 바랍니다. ",
+    "content": "약집사 프리미엄 구독 서비스 환불 방법 안내 IOS의 경우 약집사 앱에서 결제한 구독에 대해 다음과 같은 방법으로 환불을 요청할 수 있습니다. [애플 앱스토어 환불 요청 방법] . 애플 앱스토어에서 결제한 경우 앱스토어를 통해 환불이 가능하며, 애플 고객지원 링크는 다음과 같습니다. | 앱스토어에서 구매하신 경우 개발자는 애플 정책상 환불이 불가하며, IOS 인앱 구매에 대한 모든 관리 및 환불은 애플 정책에 따라 이루어지는 점 양해 부탁드립니다. | 유효기간이 지난 상품은 취소 및 환불이 불가합니다. | 구독을 취소하고 싶으시면 다음 FAQ를 참조하시기 바랍니다. | . ",
     "url": "/docs/pill-butler/faq/ko/#1-premium-%EA%B5%AC%EB%8F%85-%EC%B2%A0%ED%9A%8C%ED%99%98%EB%B6%88-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4",
     
     "relUrl": "/docs/pill-butler/faq/ko/#1-premium-구독-철회환불-방법을-알고-싶습니다"
   },"14": {
     "doc": "FAQ Korean",
     "title": "2. [Premium] 구독을 어떻게 취소할 수 있나요?",
-    "content": "약집사 프리미엄 구독 서비스 가입을 취소하는 방법을 안내하며, IOS의 경우 약집사 앱에서 결제한 정기구독을 취소할 수 있습니다. [애플 앱스토어 가입 취소 방법] 애플 앱스토어에서 구매하신 경우 '설정' 앱으로 이동 후 가입취소 가능하며,**애플 고객지원** 링크는 다음과 같습니다. - 다음 결제가 되지 않도록 구독 가입 취소 처리 되며, 현재 가입된 상품의 잔여 사용기간 동안 사용하실 수 있습니다. - 구독 환불을 원하시면 이전 FAQ를 참고하시기 바랍니다. ",
+    "content": "약집사 프리미엄 구독 서비스 가입을 취소하는 방법을 안내하며, IOS의 경우 약집사 앱에서 결제한 정기구독을 취소할 수 있습니다. [애플 앱스토어 가입 취소 방법] . 애플 앱스토어에서 구매하신 경우 ‘설정’ 앱으로 이동 후 가입취소 가능하며,애플 고객지원 링크는 다음과 같습니다. | 다음 결제가 되지 않도록 구독 가입 취소 처리 되며, 현재 가입된 상품의 잔여 사용기간 동안 사용하실 수 있습니다. | 구독 환불을 원하시면 이전 FAQ를 참고하시기 바랍니다. | . ",
     "url": "/docs/pill-butler/faq/ko/#2-premium-%EA%B5%AC%EB%8F%85%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B7%A8%EC%86%8C%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
     "relUrl": "/docs/pill-butler/faq/ko/#2-premium-구독을-어떻게-취소할-수-있나요"
@@ -113,14 +113,14 @@
   },"16": {
     "doc": "FAQ Korean",
     "title": "4. [Premium] 구독 플랜은 어떻게 변경할 수 있나요?",
-    "content": "죄송합니다만 현재 구독 플랜을 변경할 방법이 없습니다. 현재 구독 플랜을 변경하시려면 기존 구독을 취소하거나 환불하신 후 새롭게 구독 결제 신청을 하셔야 합니다. [월간 &gt; 연간] 연간 구독 방식으로 다시 신청하면 다음 달부터 연간 구독 결제로 변경됩니다. [연간&gt;월간] 월간 구독으로 다시 신청하면 다음 달부터 월간 구독 결제로 바뀝니다. ",
+    "content": "죄송합니다만 현재 구독 플랜을 변경할 방법이 없습니다. 현재 구독 플랜을 변경하시려면 기존 구독을 취소하거나 환불하신 후 새롭게 구독 결제 신청을 하셔야 합니다. [월간 &gt; 연간] . 연간 구독 방식으로 다시 신청하면 다음 달부터 연간 구독 결제로 변경됩니다. [연간 &gt; 월간] . 월간 구독으로 다시 신청하면 다음 달부터 월간 구독 결제로 바뀝니다. ",
     "url": "/docs/pill-butler/faq/ko/#4-premium-%EA%B5%AC%EB%8F%85-%ED%94%8C%EB%9E%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
     "relUrl": "/docs/pill-butler/faq/ko/#4-premium-구독-플랜은-어떻게-변경할-수-있나요"
   },"17": {
     "doc": "FAQ Korean",
     "title": "5. 무료 체험은 어떻게 진행됩니까?",
-    "content": "알약집사 무료체험은 1회만 가능하며 3일간 무료체험이 가능하며 2일차에는 정기결제가 진행됩니다. - 미성년자의 경우, 당사는 귀하가 법률대리인의 가입 및 지불에 동의했음을 확인합니다. 무료체험 후 자동으로 결제가 되며, 앱스토어 내에서 결제를 취소할 수 있으며, 해지 시까지 요금제가 자동 갱신됩니다. ",
+    "content": "알약집사 무료체험은 1회만 가능하며 3일간 무료체험이 가능하며 2일차에는 정기결제가 진행됩니다. | 미성년자의 경우, 당사는 귀하가 법률대리인의 가입 및 지불에 동의했음을 확인합니다. | . 무료체험 후 자동으로 결제가 되며, 앱스토어 내에서 결제를 취소할 수 있으며, 해지 시까지 요금제가 자동 갱신됩니다. ",
     "url": "/docs/pill-butler/faq/ko/#5-%EB%AC%B4%EB%A3%8C-%EC%B2%B4%ED%97%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%84%ED%96%89%EB%90%A9%EB%8B%88%EA%B9%8C",
     
     "relUrl": "/docs/pill-butler/faq/ko/#5-무료-체험은-어떻게-진행됩니까"
@@ -169,7 +169,7 @@
   },"24": {
     "doc": "FAQ Korean",
     "title": "FAQ Korean",
-    "content": "FAQ 내용(23년 11월 12일 기준, SNOW 참고) . ",
+    "content": " ",
     "url": "/docs/pill-butler/faq/ko/",
     
     "relUrl": "/docs/pill-butler/faq/ko/"
