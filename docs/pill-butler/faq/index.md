@@ -9,13 +9,13 @@ nav_order: 1
 ## **1. [Premium] I want to know how to withdraw/refund subscription.**
 
 {: .fs-5 }
-> This will guide you on how to get a refund for the Pill butler Premium subscription service. For IOS, you can > request a refund for a subscription paid on the Pill butler app by using the following methods.
+> This will guide you on how to get a refund for the Pill butler Premium subscription service. For IOS, you can request a refund for a subscription paid on the Pill butler app by using the following methods.
 > 
 > [How to request refund for Apple App Store]
 > 
-> If you paid in the Apple App Store, you can get a refund through the App Store. Here is the link to **[Apple’s > customer support](https://support.apple.com/en-us/HT204084).**
+> If you paid in the Apple App Store, you can get a refund through the App Store. Here is the link to **[Apple’s customer support](https://support.apple.com/en-us/HT204084).**
 > 
-> - If you purchased it from the App Store, the developer cannot refund it due to Apple policy. Please understand that > all management and refunds for IOS in-app purchases are made according to Apple’s policy.
+> - If you purchased it from the App Store, the developer cannot refund it due to Apple policy. Please understand that all management and refunds for IOS in-app purchases are made according to Apple’s policy.
 > - Products that have expired cannot be canceled or refunded.
 > - If you want to unsubscribe, please refer to the following FAQ.
 
@@ -30,7 +30,7 @@ nav_order: 1
 > 
 > If you purchased on Apple’s App Store, you can go to “settings” app, and cancel the subscription. Here is the link to **[Apple’s customer support](https://support.apple.com/en-us/HT204084).**
 > 
-> - Subscription cancellation will be processed so that the next payment will not be made, and you can use it for the > remaining period of use of the currently subscribed product.
+> - Subscription cancellation will be processed so that the next payment will not be made, and you can use it for the remaining period of use of the currently subscribed product.
 > - If you would like a subscription refund, please refer to the previous FAQ.
 
 {: .fs-7 }
@@ -57,9 +57,9 @@ nav_order: 1
 ## **5. How does the free trial work?**
 
 {: .fs-5 }
-> Pill Butler free experience is only available once. You can experience free of charge for 3 days and regular > payment takes place on the 2nd day. 
+> Pill Butler free experience is only available once. You can experience free of charge for 3 days and regular payment takes place on the 2nd day. 
 > 
-> - In the case of minors, we confirm that you have agreed to the subscription and payment of your legal > representative.
+> - In the case of minors, we confirm that you have agreed to the subscription and payment of your legal representative.
 > 
 > Subscriptions will be automatically made after the free experience and subscription can be canceled within the App Store. Your plan will be automatically renewed until you cancel it. 
 
