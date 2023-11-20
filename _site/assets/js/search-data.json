@@ -1,14 +1,14 @@
 {"0": {
     "doc": "FAQ English",
     "title": "1. [Premium] I want to know how to withdraw/refund subscription.",
-    "content": "This will guide you on how to get a refund for the Pill butler Premium subscription service. For IOS, you can &gt; request a refund for a subscription paid on the Pill butler app by using the following methods. [How to request refund for Apple App Store] . If you paid in the Apple App Store, you can get a refund through the App Store. Here is the link to Apple’s &gt; customer support. | If you purchased it from the App Store, the developer cannot refund it due to Apple policy. Please understand that &gt; all management and refunds for IOS in-app purchases are made according to Apple’s policy. | Products that have expired cannot be canceled or refunded. | If you want to unsubscribe, please refer to the following FAQ. | . ",
+    "content": "This will guide you on how to get a refund for the Pill butler Premium subscription service. For IOS, you can request a refund for a subscription paid on the Pill butler app by using the following methods. [How to request refund for Apple App Store] . If you paid in the Apple App Store, you can get a refund through the App Store. Here is the link to Apple’s customer support. | If you purchased it from the App Store, the developer cannot refund it due to Apple policy. Please understand that all management and refunds for IOS in-app purchases are made according to Apple’s policy. | Products that have expired cannot be canceled or refunded. | If you want to unsubscribe, please refer to the following FAQ. | . ",
     "url": "/docs/pill-butler/faq/#1-premium-i-want-to-know-how-to-withdrawrefund-subscription",
     
     "relUrl": "/docs/pill-butler/faq/#1-premium-i-want-to-know-how-to-withdrawrefund-subscription"
   },"1": {
     "doc": "FAQ English",
     "title": "2. [Premium] How do I cancel my subscription?",
-    "content": "This will guide you on how to cancel your subscription to Pill Butler Premium. For IOS, you can unsubscribe from regular subscriptions paid on the Pill Butler app by. [How to cancel Apple App Store subscription] . If you purchased on Apple’s App Store, you can go to “settings” app, and cancel the subscription. Here is the link to Apple’s customer support. | Subscription cancellation will be processed so that the next payment will not be made, and you can use it for the &gt; remaining period of use of the currently subscribed product. | If you would like a subscription refund, please refer to the previous FAQ. | . ",
+    "content": "This will guide you on how to cancel your subscription to Pill Butler Premium. For IOS, you can unsubscribe from regular subscriptions paid on the Pill Butler app by. [How to cancel Apple App Store subscription] . If you purchased on Apple’s App Store, you can go to “settings” app, and cancel the subscription. Here is the link to Apple’s customer support. | Subscription cancellation will be processed so that the next payment will not be made, and you can use it for the remaining period of use of the currently subscribed product. | If you would like a subscription refund, please refer to the previous FAQ. | . ",
     "url": "/docs/pill-butler/faq/#2-premium-how-do-i-cancel-my-subscription",
     
     "relUrl": "/docs/pill-butler/faq/#2-premium-how-do-i-cancel-my-subscription"
@@ -21,159 +21,145 @@
     "relUrl": "/docs/pill-butler/faq/#3-premium-please-confirm-if-it-has-been-canceled-properly"
   },"3": {
     "doc": "FAQ English",
-    "title": "4. [Premium] How do I change my payment plan?",
-    "content": "We’re sorry, but we don’t have a way to change the payment method at the moment. If you want to change your payment method, you must cancel or refund your previous subscription and make a new subscription. [Monthly &gt; Annual] . If you make a new subscription using the annual payment method, it will be changed to annual payment starting next month. [Annual &gt; Monthly] . If you subscribe to a new monthly payment method, it will be changed to monthly payment starting next month. ",
-    "url": "/docs/pill-butler/faq/#4-premium-how-do-i-change-my-payment-plan",
+    "title": "4. How does the free trial work?",
+    "content": "Pill Butler free experience is only available once. You can experience free of charge for 3 days and regular payment takes place on the 2nd day. | In the case of minors, we confirm that you have agreed to the subscription and payment of your legal representative. | . Subscriptions will be automatically made after the free experience and subscription can be canceled within the App Store. Your plan will be automatically renewed until you cancel it. ",
+    "url": "/docs/pill-butler/faq/#4-how-does-the-free-trial-work",
     
-    "relUrl": "/docs/pill-butler/faq/#4-premium-how-do-i-change-my-payment-plan"
+    "relUrl": "/docs/pill-butler/faq/#4-how-does-the-free-trial-work"
   },"4": {
     "doc": "FAQ English",
-    "title": "5. How does the free trial work?",
-    "content": "Pill Butler free experience is only available once. You can experience free of charge for 3 days and regular &gt; payment takes place on the 2nd day. | In the case of minors, we confirm that you have agreed to the subscription and payment of your legal &gt; representative. | . Subscriptions will be automatically made after the free experience and subscription can be canceled within the App Store. Your plan will be automatically renewed until you cancel it. ",
-    "url": "/docs/pill-butler/faq/#5-how-does-the-free-trial-work",
+    "title": "5. How can I add multi-profiles?",
+    "content": "You can add multi-profiles from the “Setting” menu using the “Add” button at the bottom of the user profile. Basic (free) users can add up to 1 person, and premium (paid) subscription users can add unlimited. ",
+    "url": "/docs/pill-butler/faq/#5-how-can-i-add-multi-profiles",
     
-    "relUrl": "/docs/pill-butler/faq/#5-how-does-the-free-trial-work"
+    "relUrl": "/docs/pill-butler/faq/#5-how-can-i-add-multi-profiles"
   },"5": {
     "doc": "FAQ English",
-    "title": "6. How can I add multi-profiles?",
-    "content": "You can add multi-profiles from the “Setting” menu using the “Add” button at the bottom of the user profile. Basic (free) users can add up to 1 person, and premium (paid) subscription users can add unlimited. ",
-    "url": "/docs/pill-butler/faq/#6-how-can-i-add-multi-profiles",
+    "title": "6. How can I change push alarm settings?",
+    "content": "Click “Setting &gt; Push Notification Settings” to automatically navigate to the Device’s “Settings &gt; Pill Butler” Settings screen. You can change notification settings on the moved screen. ",
+    "url": "/docs/pill-butler/faq/#6-how-can-i-change-push-alarm-settings",
     
-    "relUrl": "/docs/pill-butler/faq/#6-how-can-i-add-multi-profiles"
+    "relUrl": "/docs/pill-butler/faq/#6-how-can-i-change-push-alarm-settings"
   },"6": {
     "doc": "FAQ English",
-    "title": "7. How can I change push alarm settings?",
-    "content": "Click “Setting &gt; Push Notification Settings” to automatically navigate to the Device’s “Settings &gt; Pill Butler” Settings screen. You can change notification settings on the moved screen. ",
-    "url": "/docs/pill-butler/faq/#7-how-can-i-change-push-alarm-settings",
+    "title": "7. How can I customize the shape and color of the pill icon?",
+    "content": "You can select the shape and color of the pill by selecting “Add picture &gt; icon” on the add new medicine screen. Basic (free) users can only select 3 pill shapes, color cannot be changed, and premium (paid) subscription users can select all shapes and colors without restriction. ",
+    "url": "/docs/pill-butler/faq/#7-how-can-i-customize-the-shape-and-color-of-the-pill-icon",
     
-    "relUrl": "/docs/pill-butler/faq/#7-how-can-i-change-push-alarm-settings"
+    "relUrl": "/docs/pill-butler/faq/#7-how-can-i-customize-the-shape-and-color-of-the-pill-icon"
   },"7": {
     "doc": "FAQ English",
-    "title": "8. How can I customize the shape and color of the pill icon?",
-    "content": "You can select the shape and color of the pill by selecting “Add picture &gt; icon” on the add new medicine screen. Basic (free) users can only select 3 pill shapes, color cannot be changed, and premium (paid) subscription users can select all shapes and colors without restriction. ",
-    "url": "/docs/pill-butler/faq/#8-how-can-i-customize-the-shape-and-color-of-the-pill-icon",
+    "title": "8. How can I change alarm sounds?",
+    "content": "Select the “Sound” on the add new medicine screen to change the alarm sound you want. Basic (free) users can select only basic voice sounds, and premium (paid) subscription users can select all sounds without limit. Select “None” to remove the sound. ",
+    "url": "/docs/pill-butler/faq/#8-how-can-i-change-alarm-sounds",
     
-    "relUrl": "/docs/pill-butler/faq/#8-how-can-i-customize-the-shape-and-color-of-the-pill-icon"
+    "relUrl": "/docs/pill-butler/faq/#8-how-can-i-change-alarm-sounds"
   },"8": {
     "doc": "FAQ English",
-    "title": "9. How can I change alarm sounds?",
-    "content": "Select the “Sound” on the add new medicine screen to change the alarm sound you want. Basic (free) users can select only basic voice sounds, and premium (paid) subscription users can select all sounds without limit. Select “None” to remove the sound. ",
-    "url": "/docs/pill-butler/faq/#9-how-can-i-change-alarm-sounds",
+    "title": "9. How many can I add medication on the main feed?",
+    "content": "Basic (free) users can only register for one dose. Premium (paid) subscription users can register for medications with no limit. ",
+    "url": "/docs/pill-butler/faq/#9-how-many-can-i-add-medication-on-the-main-feed",
     
-    "relUrl": "/docs/pill-butler/faq/#9-how-can-i-change-alarm-sounds"
+    "relUrl": "/docs/pill-butler/faq/#9-how-many-can-i-add-medication-on-the-main-feed"
   },"9": {
     "doc": "FAQ English",
-    "title": "10. How many can I add medication on the main feed?",
-    "content": "Basic (free) users can only register for one dose. Premium (paid) subscription users can register for medications with no limit. ",
-    "url": "/docs/pill-butler/faq/#10-how-many-can-i-add-medication-on-the-main-feed",
-    
-    "relUrl": "/docs/pill-butler/faq/#10-how-many-can-i-add-medication-on-the-main-feed"
-  },"10": {
-    "doc": "FAQ English",
-    "title": "11. I want to add an alarm of the medication more than 6 times. How can I?",
+    "title": "10. I want to add an alarm of the medication more than 6 times. How can I?",
     "content": "Alarms for all medications are required to be registered up to 6 times based on the principle of taking a single drug at intervals of 4 hours for the health of the user. ",
-    "url": "/docs/pill-butler/faq/#11-i-want-to-add-an-alarm-of-the-medication-more-than-6-times-how-can-i",
+    "url": "/docs/pill-butler/faq/#10-i-want-to-add-an-alarm-of-the-medication-more-than-6-times-how-can-i",
     
-    "relUrl": "/docs/pill-butler/faq/#11-i-want-to-add-an-alarm-of-the-medication-more-than-6-times-how-can-i"
-  },"11": {
+    "relUrl": "/docs/pill-butler/faq/#10-i-want-to-add-an-alarm-of-the-medication-more-than-6-times-how-can-i"
+  },"10": {
     "doc": "FAQ English",
     "title": "FAQ English",
     "content": " ",
     "url": "/docs/pill-butler/faq/",
     
     "relUrl": "/docs/pill-butler/faq/"
-  },"12": {
+  },"11": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"13": {
+  },"12": {
     "doc": "FAQ Korean",
     "title": "1. [Premium] 구독 철회/환불 방법을 알고 싶습니다.",
     "content": "약집사 프리미엄 구독 서비스 환불 방법 안내 IOS의 경우 약집사 앱에서 결제한 구독에 대해 다음과 같은 방법으로 환불을 요청할 수 있습니다. [애플 앱스토어 환불 요청 방법] . 애플 앱스토어에서 결제한 경우 앱스토어를 통해 환불이 가능하며, 애플 고객지원 링크는 다음과 같습니다. | 앱스토어에서 구매하신 경우 개발자는 애플 정책상 환불이 불가하며, IOS 인앱 구매에 대한 모든 관리 및 환불은 애플 정책에 따라 이루어지는 점 양해 부탁드립니다. | 유효기간이 지난 상품은 취소 및 환불이 불가합니다. | 구독을 취소하고 싶으시면 다음 FAQ를 참조하시기 바랍니다. | . ",
     "url": "/docs/pill-butler/faq/ko/#1-premium-%EA%B5%AC%EB%8F%85-%EC%B2%A0%ED%9A%8C%ED%99%98%EB%B6%88-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4",
     
     "relUrl": "/docs/pill-butler/faq/ko/#1-premium-구독-철회환불-방법을-알고-싶습니다"
-  },"14": {
+  },"13": {
     "doc": "FAQ Korean",
     "title": "2. [Premium] 구독을 어떻게 취소할 수 있나요?",
     "content": "약집사 프리미엄 구독 서비스 가입을 취소하는 방법을 안내하며, IOS의 경우 약집사 앱에서 결제한 정기구독을 취소할 수 있습니다. [애플 앱스토어 가입 취소 방법] . 애플 앱스토어에서 구매하신 경우 ‘설정’ 앱으로 이동 후 가입취소 가능하며,애플 고객지원 링크는 다음과 같습니다. | 다음 결제가 되지 않도록 구독 가입 취소 처리 되며, 현재 가입된 상품의 잔여 사용기간 동안 사용하실 수 있습니다. | 구독 환불을 원하시면 이전 FAQ를 참고하시기 바랍니다. | . ",
     "url": "/docs/pill-butler/faq/ko/#2-premium-%EA%B5%AC%EB%8F%85%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B7%A8%EC%86%8C%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
     "relUrl": "/docs/pill-butler/faq/ko/#2-premium-구독을-어떻게-취소할-수-있나요"
-  },"15": {
+  },"14": {
     "doc": "FAQ Korean",
     "title": "3. [Premium] 구독이 제대로 취소되었는지 확인 부탁드립니다.",
     "content": "애플스토어에서 구독 가입 상태를 확인하실 수 있으며, 정기결제 내역에 약집사가 보이지 않을 경우, 해지된 것임을 알 수 있습니다. ",
     "url": "/docs/pill-butler/faq/ko/#3-premium-%EA%B5%AC%EB%8F%85%EC%9D%B4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%B7%A8%EC%86%8C%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80-%ED%99%95%EC%9D%B8-%EB%B6%80%ED%83%81%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4",
     
     "relUrl": "/docs/pill-butler/faq/ko/#3-premium-구독이-제대로-취소되었는지-확인-부탁드립니다"
+  },"15": {
+    "doc": "FAQ Korean",
+    "title": "4. 무료 체험은 어떻게 진행됩니까?",
+    "content": "알약집사 무료체험은 1회만 가능하며 3일간 무료체험이 가능하며 2일차에는 정기결제가 진행됩니다. | 미성년자의 경우, 당사는 귀하가 법률대리인의 가입 및 지불에 동의했음을 확인합니다. | . 무료체험 후 자동으로 결제가 되며, 앱스토어 내에서 결제를 취소할 수 있으며, 해지 시까지 요금제가 자동 갱신됩니다. ",
+    "url": "/docs/pill-butler/faq/ko/#4-%EB%AC%B4%EB%A3%8C-%EC%B2%B4%ED%97%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%84%ED%96%89%EB%90%A9%EB%8B%88%EA%B9%8C",
+    
+    "relUrl": "/docs/pill-butler/faq/ko/#4-무료-체험은-어떻게-진행됩니까"
   },"16": {
     "doc": "FAQ Korean",
-    "title": "4. [Premium] 구독 플랜은 어떻게 변경할 수 있나요?",
-    "content": "죄송합니다만 현재 구독 플랜을 변경할 방법이 없습니다. 현재 구독 플랜을 변경하시려면 기존 구독을 취소하거나 환불하신 후 새롭게 구독 결제 신청을 하셔야 합니다. [월간 &gt; 연간] . 연간 구독 방식으로 다시 신청하면 다음 달부터 연간 구독 결제로 변경됩니다. [연간 &gt; 월간] . 월간 구독으로 다시 신청하면 다음 달부터 월간 구독 결제로 바뀝니다. ",
-    "url": "/docs/pill-butler/faq/ko/#4-premium-%EA%B5%AC%EB%8F%85-%ED%94%8C%EB%9E%9C%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
+    "title": "5. 멀티프로필은 어떻게 추가할 수 있나요?",
+    "content": "“세팅” 메뉴에서 유저 프로필 하단의 ‘추가하기’ 버튼으로 추가할 수 있으며, 베이직(무료) 사용자는 1명까지 추가 가능하며, 프리미엄(유료) 구독 사용자는 명수에 제한 없이 추가할 수 있습니다. ",
+    "url": "/docs/pill-butler/faq/ko/#5-%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B6%94%EA%B0%80%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
-    "relUrl": "/docs/pill-butler/faq/ko/#4-premium-구독-플랜은-어떻게-변경할-수-있나요"
+    "relUrl": "/docs/pill-butler/faq/ko/#5-멀티프로필은-어떻게-추가할-수-있나요"
   },"17": {
     "doc": "FAQ Korean",
-    "title": "5. 무료 체험은 어떻게 진행됩니까?",
-    "content": "알약집사 무료체험은 1회만 가능하며 3일간 무료체험이 가능하며 2일차에는 정기결제가 진행됩니다. | 미성년자의 경우, 당사는 귀하가 법률대리인의 가입 및 지불에 동의했음을 확인합니다. | . 무료체험 후 자동으로 결제가 되며, 앱스토어 내에서 결제를 취소할 수 있으며, 해지 시까지 요금제가 자동 갱신됩니다. ",
-    "url": "/docs/pill-butler/faq/ko/#5-%EB%AC%B4%EB%A3%8C-%EC%B2%B4%ED%97%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%84%ED%96%89%EB%90%A9%EB%8B%88%EA%B9%8C",
+    "title": "6. 푸쉬 알림 설정은 어떻게 변경할 수 있나요?",
+    "content": "“세팅 &gt; 푸쉬 알림 설정”을 누르면 자동으로 기기의 “설정 &gt; 약집사” 설정 화면으로 이동합니다. 이동된 화면에서 알림 설정을 변경할 수 있습니다. ",
+    "url": "/docs/pill-butler/faq/ko/#6-%ED%91%B8%EC%89%AC-%EC%95%8C%EB%A6%BC-%EC%84%A4%EC%A0%95%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
-    "relUrl": "/docs/pill-butler/faq/ko/#5-무료-체험은-어떻게-진행됩니까"
+    "relUrl": "/docs/pill-butler/faq/ko/#6-푸쉬-알림-설정은-어떻게-변경할-수-있나요"
   },"18": {
     "doc": "FAQ Korean",
-    "title": "6. 멀티프로필은 어떻게 추가할 수 있나요?",
-    "content": "“세팅” 메뉴에서 유저 프로필 하단의 ‘추가하기’ 버튼으로 추가할 수 있으며, 베이직(무료) 사용자는 1명까지 추가 가능하며, 프리미엄(유료) 구독 사용자는 명수에 제한 없이 추가할 수 있습니다. ",
-    "url": "/docs/pill-butler/faq/ko/#6-%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B6%94%EA%B0%80%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
+    "title": "7. 알약 아이콘의 모양과 색상은 어떻게 바꿀 수 있나요?",
+    "content": "복용약 등록 화면에서 “사진 추가 &gt; 아이콘”을 선택하면 알약의 모양과 색상을 선택할 수 있습니다. 베이직(무료) 사용자는 알약 모양 3가지만 선택할 수 있고, 색상은 변경할 수 없으며, 프리미엄(유료) 구독 사용자는 제한 없이 모든 모양과 색상을 선택할 수 있습니다. ",
+    "url": "/docs/pill-butler/faq/ko/#7-%EC%95%8C%EC%95%BD-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EB%AA%A8%EC%96%91%EA%B3%BC-%EC%83%89%EC%83%81%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BF%80-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
-    "relUrl": "/docs/pill-butler/faq/ko/#6-멀티프로필은-어떻게-추가할-수-있나요"
+    "relUrl": "/docs/pill-butler/faq/ko/#7-알약-아이콘의-모양과-색상은-어떻게-바꿀-수-있나요"
   },"19": {
     "doc": "FAQ Korean",
-    "title": "7. 푸쉬 알림 설정은 어떻게 변경할 수 있나요?",
-    "content": "“세팅 &gt; 푸쉬 알림 설정”을 누르면 자동으로 기기의 “설정 &gt; 약집사” 설정 화면으로 이동합니다. 이동된 화면에서 알림 설정을 변경할 수 있습니다. ",
-    "url": "/docs/pill-butler/faq/ko/#7-%ED%91%B8%EC%89%AC-%EC%95%8C%EB%A6%BC-%EC%84%A4%EC%A0%95%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
+    "title": "8. 알람 소리는 어떻게 바꿀 수 있나요?",
+    "content": "복용약 등록 화면에서 ”사운드” 항목을 선택하면 원하는 알람 소리로 바꿀 수 있습니다. 베이직(무료) 사용자는 기본 목소리 소리만 선택할 수 있으며, 프리미엄(유료) 구독 사용자는 제한 없이 모든 소리를 선택할 수 있습니다. 소리를 없애고 싶다면 “없음”을 선택해주세요. ",
+    "url": "/docs/pill-butler/faq/ko/#8-%EC%95%8C%EB%9E%8C-%EC%86%8C%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BF%80-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
-    "relUrl": "/docs/pill-butler/faq/ko/#7-푸쉬-알림-설정은-어떻게-변경할-수-있나요"
+    "relUrl": "/docs/pill-butler/faq/ko/#8-알람-소리는-어떻게-바꿀-수-있나요"
   },"20": {
     "doc": "FAQ Korean",
-    "title": "8. 알약 아이콘의 모양과 색상은 어떻게 바꿀 수 있나요?",
-    "content": "복용약 등록 화면에서 “사진 추가 &gt; 아이콘”을 선택하면 알약의 모양과 색상을 선택할 수 있습니다. 베이직(무료) 사용자는 알약 모양 3가지만 선택할 수 있고, 색상은 변경할 수 없으며, 프리미엄(유료) 구독 사용자는 제한 없이 모든 모양과 색상을 선택할 수 있습니다. ",
-    "url": "/docs/pill-butler/faq/ko/#8-%EC%95%8C%EC%95%BD-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EB%AA%A8%EC%96%91%EA%B3%BC-%EC%83%89%EC%83%81%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BF%80-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
+    "title": "9. 메인 피드에서 복용약을 몇 개나 등록할 수 있나요?",
+    "content": "베이직(무료) 사용자는 1개의 복용약만 등록할 수 있습니다. 프리미엄(유료) 구독 사용자는 개수의 제한없이 복용약을 등록할 수 있습니다. ",
+    "url": "/docs/pill-butler/faq/ko/#9-%EB%A9%94%EC%9D%B8-%ED%94%BC%EB%93%9C%EC%97%90%EC%84%9C-%EB%B3%B5%EC%9A%A9%EC%95%BD%EC%9D%84-%EB%AA%87-%EA%B0%9C%EB%82%98-%EB%93%B1%EB%A1%9D%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
     
-    "relUrl": "/docs/pill-butler/faq/ko/#8-알약-아이콘의-모양과-색상은-어떻게-바꿀-수-있나요"
+    "relUrl": "/docs/pill-butler/faq/ko/#9-메인-피드에서-복용약을-몇-개나-등록할-수-있나요"
   },"21": {
     "doc": "FAQ Korean",
-    "title": "9. 알람 소리는 어떻게 바꿀 수 있나요?",
-    "content": "복용약 등록 화면에서 ”사운드” 항목을 선택하면 원하는 알람 소리로 바꿀 수 있습니다. 베이직(무료) 사용자는 기본 목소리 소리만 선택할 수 있으며, 프리미엄(유료) 구독 사용자는 제한 없이 모든 소리를 선택할 수 있습니다. 소리를 없애고 싶다면 “없음”을 선택해주세요. ",
-    "url": "/docs/pill-butler/faq/ko/#9-%EC%95%8C%EB%9E%8C-%EC%86%8C%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BF%80-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
-    
-    "relUrl": "/docs/pill-butler/faq/ko/#9-알람-소리는-어떻게-바꿀-수-있나요"
-  },"22": {
-    "doc": "FAQ Korean",
-    "title": "10. 메인 피드에서 복용약을 몇 개나 등록할 수 있나요?",
-    "content": "베이직(무료) 사용자는 1개의 복용약만 등록할 수 있습니다. 프리미엄(유료) 구독 사용자는 개수의 제한없이 복용약을 등록할 수 있습니다. ",
-    "url": "/docs/pill-butler/faq/ko/#10-%EB%A9%94%EC%9D%B8-%ED%94%BC%EB%93%9C%EC%97%90%EC%84%9C-%EB%B3%B5%EC%9A%A9%EC%95%BD%EC%9D%84-%EB%AA%87-%EA%B0%9C%EB%82%98-%EB%93%B1%EB%A1%9D%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94",
-    
-    "relUrl": "/docs/pill-butler/faq/ko/#10-메인-피드에서-복용약을-몇-개나-등록할-수-있나요"
-  },"23": {
-    "doc": "FAQ Korean",
-    "title": "11. 복용약의 알람을 6번 보다 많이 등록하고 싶은데 어떻게 하나요?",
+    "title": "10. 복용약의 알람을 6번 보다 많이 등록하고 싶은데 어떻게 하나요?",
     "content": "모든 복용약의 알람은 사용자의 건강을 위해 단일약 기준 4시간 간격을 두는 복용 원칙을 기준으로 6번까지만 등록하게 끔 되어있습니다. ",
-    "url": "/docs/pill-butler/faq/ko/#11-%EB%B3%B5%EC%9A%A9%EC%95%BD%EC%9D%98-%EC%95%8C%EB%9E%8C%EC%9D%84-6%EB%B2%88-%EB%B3%B4%EB%8B%A4-%EB%A7%8E%EC%9D%B4-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98%EC%9A%94",
+    "url": "/docs/pill-butler/faq/ko/#10-%EB%B3%B5%EC%9A%A9%EC%95%BD%EC%9D%98-%EC%95%8C%EB%9E%8C%EC%9D%84-6%EB%B2%88-%EB%B3%B4%EB%8B%A4-%EB%A7%8E%EC%9D%B4-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98%EC%9A%94",
     
-    "relUrl": "/docs/pill-butler/faq/ko/#11-복용약의-알람을-6번-보다-많이-등록하고-싶은데-어떻게-하나요"
-  },"24": {
+    "relUrl": "/docs/pill-butler/faq/ko/#10-복용약의-알람을-6번-보다-많이-등록하고-싶은데-어떻게-하나요"
+  },"22": {
     "doc": "FAQ Korean",
     "title": "FAQ Korean",
     "content": " ",
     "url": "/docs/pill-butler/faq/ko/",
     
     "relUrl": "/docs/pill-butler/faq/ko/"
-  },"25": {
+  },"23": {
     "doc": "Pill Butler",
     "title": "Pill Butler",
     "content": " ",
