@@ -19,7 +19,6 @@ nav_order: 1
 > - Products that have expired cannot be canceled or refunded.
 > - If you want to unsubscribe, please refer to the following FAQ.
 
-
 {: .fs-7 }
 ## **2. [Premium] How do I cancel my subscription?**
 
@@ -28,7 +27,7 @@ nav_order: 1
 > 
 > [How to cancel Apple App Store subscription]
 > 
-> If you purchased on Apple’s App Store, you can go to “settings” app, and cancel the subscription. Here is the link to **[Apple’s customer support](https://support.apple.com/en-us/HT204084).**
+> If you purchased on Apple’s App Store, you can go to “settings” app, and cancel the subscription. Here is the link to **[Apple’s customer support](https://support.apple.com/en-us/HT202039).**
 > 
 > - Subscription cancellation will be processed so that the next payment will not be made, and you can use it for the remaining period of use of the currently subscribed product.
 > - If you would like a subscription refund, please refer to the previous FAQ.
@@ -40,21 +39,7 @@ nav_order: 1
 > You can check your subscription status on the Apple Store. If you do not see Pill Butler in your regular payment history, it has been successfully canceled. 
 
 {: .fs-7 }
-## **4. [Premium] How do I change my payment plan?**
-
-{: .fs-5 }
-> We’re sorry, but we don’t have a way to change the payment method at the moment. If you want to change your payment method, you must cancel or refund your previous subscription and make a new subscription.
-> 
-> [Monthly > Annual]
-> 
-> If you make a new subscription using the annual payment method, it will be changed to annual payment starting next month.
-> 
-> [Annual > Monthly]
-> 
-> If you subscribe to a new monthly payment method, it will be changed to monthly payment starting next month. 
-
-{: .fs-7 }
-## **5. How does the free trial work?**
+## **4. How does the free trial work?**
 
 {: .fs-5 }
 > Pill Butler free experience is only available once. You can experience free of charge for 3 days and regular payment takes place on the 2nd day. 
@@ -64,37 +49,37 @@ nav_order: 1
 > Subscriptions will be automatically made after the free experience and subscription can be canceled within the App Store. Your plan will be automatically renewed until you cancel it. 
 
 {: .fs-7 }
-## **6. How can I add multi-profiles?**
+## **5. How can I add multi-profiles?**
 
 {: .fs-5 }
 > You can add multi-profiles from the "Setting" menu using the "Add" button at the bottom of the user profile. Basic (free) users can add up to 1 person, and premium (paid) subscription users can add unlimited.
 
 {: .fs-7 }
-## **7. How can I change push alarm settings?**
+## **6. How can I change push alarm settings?**
 
 {: .fs-5 }
 > Click "Setting > Push Notification Settings" to automatically navigate to the Device's “Settings > Pill Butler” Settings screen. You can change notification settings on the moved screen.
 
 {: .fs-7 }
-## **8. How can I customize the shape and color of the pill icon?**
+## **7. How can I customize the shape and color of the pill icon?**
 
 {: .fs-5 }
 > You can select the shape and color of the pill by selecting "Add picture > icon" on the add new medicine screen. Basic (free) users can only select 3 pill shapes, color cannot be changed, and premium (paid) subscription users can select all shapes and colors without restriction.
 
 {: .fs-7 }
-## **9. How can I change alarm sounds?**
+## **8. How can I change alarm sounds?**
 
 {: .fs-5 }
 > Select the "Sound" on the add new medicine screen to change the alarm sound you want. Basic (free) users can select only basic voice sounds, and premium (paid) subscription users can select all sounds without limit. Select "None" to remove the sound.
 
 {: .fs-7 }
-## **10. How many can I add medication on the main feed?**
+## **9. How many can I add medication on the main feed?**
 
 {: .fs-5 }
 > Basic (free) users can only register for one dose. Premium (paid) subscription users can register for medications with no limit.
 
 {: .fs-7 }
-## **11. I want to add an alarm of the medication more than 6 times. How can I?**
+## **10. I want to add an alarm of the medication more than 6 times. How can I?**
 
 {: .fs-5 }
 > Alarms for all medications are required to be registered up to 6 times based on the principle of taking a single drug at intervals of 4 hours for the health of the user.
