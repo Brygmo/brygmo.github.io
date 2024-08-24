@@ -18,7 +18,7 @@ nav_order: 3
 Pill Butler has designated a Privacy Officer to handle inquiries and complaints related to user's personal information.
 
 - Name: Lee Sang-don
-- Contact: [brygmo.corp@gmail.com](mailto:brygmo.corp@gmail.com)
+- Contact: [support@brygmo.com](mailto:support@brygmo.com)
 
 ### 4. Changes to the Privacy Policy
 - This privacy policy is effective from the date of implementation, and any additions, deletions, or corrections due to legal requirements and policies will be notified through announcements at least 7 days prior to the effective date of the changes.

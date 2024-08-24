@@ -18,7 +18,7 @@ nav_order: 4
 약집사는 이용자의 개인정보 관련 문의사항 및 불만 처리 등을 위하여 아래와 같이 개인정보보호 책임자를 지정하고 있습니다. 
 
 - 이름 : 이상돈
-- 연락처 : [brygmo.corp@gmail.com](mailto:brygmo.corp@gmail.com)
+- 연락처 : [support@brygmo.com](mailto:support@brygmo.com)
 
 ### 4. 개인정보처리방침 변경
 
